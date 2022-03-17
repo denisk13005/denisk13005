@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm KIRMANN DENIS</h1>
+<h1 align="center">Hi 👋, I'm KirmannDenis</h1>
 <h3 align="center">I AM A REACT DEVELOPPER</h3>
 
 - 🔭 I’m currently working on **ARGENT BANK**
