@@ -14,6 +14,7 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" style="padding-right:10px;" />
 
-
+<br/>
+<br/>
 ![Cover](https://github.com/denisk13005/denisk13005/blob/master/img/calanque-03.jpg)
 
