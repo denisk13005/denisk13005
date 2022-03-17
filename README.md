@@ -17,5 +17,5 @@
 
 ##                 
 
-![Cover](https://github.com/denisk13005/denisk13005/blob/master/img/calanque-03.jpg)
+![Cover border-radius='10px'](https://github.com/denisk13005/denisk13005/blob/master/img/calanque-03.jpg)
 
