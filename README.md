@@ -16,10 +16,7 @@
 <br/>
 
 ##                 
-<div  border-radius='10px' overflow='hidden'>  
-  <div width = '100%'>
-  ![Cover](https://github.com/denisk13005/denisk13005/blob/master/img/calanque-03.jpg)
-  </div>
-</div>
 
+  ![Cover](https://github.com/denisk13005/denisk13005/blob/master/img/calanque-03.jpg)
+ 
 
