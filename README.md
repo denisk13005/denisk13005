@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kirmann Denis</h1>
 <h3 align="center">I AM A REACT DEVELOPPER</h3>
 
-- 🔭 I’m currently working on **ARGENT BANK**
+- 🔭 I’m currently working on **Wealth Health**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
