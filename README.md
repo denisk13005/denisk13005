@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kirmann Denis</h1>
 <h3 align="center">I AM A REACT DEVELOPPER</h3>
 
-- 🔭 I’m currently working on ** <img  src="https://github.com/denisk13005/denisk13005/blob/master/amazon_PNG1.png" align="center"/>
-   Clone** 
+- 🔭 I’m currently working for AIRBUS HELICOPTERS
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
