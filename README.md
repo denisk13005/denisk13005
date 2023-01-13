@@ -1,8 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Kirmann Denis</h1>
-<h3 align="center">I AM A SOFTWARE ENGINEER Projects</h3>
+<h3 align="center">I AM A SOFTWARE ENGINEER </h3>
 
-- 🔭 I’m currently working for AIRBUS HELICOPTERS
+- 🔭 I’m currently working for AIRBUS HELICOPTERS Projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
